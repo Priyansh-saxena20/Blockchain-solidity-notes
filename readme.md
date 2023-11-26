@@ -45,17 +45,11 @@
 
 <div align="center">
   <h1> 30 Days Of Solidity: Licences and Pragma</h1>
-  <a class="header-badge" target="_blank" href="https://dev.to/envoy_">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/Envoy_1084">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Envoy_1084?style=social">
   </a>
 
-<sub>Author:
-<a href="https://dev.to/envoy_" target="_blank">Vedant Chainani</a><br>
-<small> June, 2022</small>
-</sub>
 
 </div>
 
